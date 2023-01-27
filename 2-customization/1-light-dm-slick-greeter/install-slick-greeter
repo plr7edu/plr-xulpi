@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Install Necessary Packages
+sudo apt install slick-greeter lightdm-settings -y
+
+# Backup  Lightdm-gtk-greeter configs
+cd /usr/share/lightdm/lightdm.conf.d/
+sudo mv 60-lightdm-gtk-greeter.conf 60-lightdm-gtk-greeter.conf.bak
+
+cd /etc/lightdm/
+sudo mv lightdm-gtk-greeter.conf lightdm-gtk-greeter.conf.bak
+
+cd -
+
+# Copy Slick-greeter config
+sudo cp config/slick-greeter.conf /etc/lightdm/
+
+# Copy User Images
+sudo cp lightdm-images/* /usr/share/
+ 
+ 
+
+
+
+
+
+
+
+
+
+
