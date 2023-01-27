@@ -128,6 +128,7 @@ thunar-archive-plugin
 xapp
 unrar
 lxqt-sudo
+python3-pip
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
