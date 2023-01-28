@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Script Run Location = /home/plr/My-Repos/plr-alpi/4-backup-restore-xfce4-settings/normal-user/backup-restore-xfce4-configs/
+
+rm -f *.txt
+
+tput bold
+echo -e "\e[1;34mDelete old configs...\e[1;37m";
+tput sgr0
+
+#delete all current xfce4 restore configs
+sudo rm -rf dconf gtk-3.0 Thunar xfce4 
+echo " "
+
+
+tput bold
+echo -e "\e[1;34mBackup new configs...\e[1;37m";
+tput sgr0
+
+#Copy new configs
+cd /home/plr/.config/
+cp -R dconf/ gtk-3.0/ Thunar/ xfce4/ ../My-Repos/plr-dlpi/3-xfce4-settings/normal-user/backup-restore-xfce4-configs/
+
+#Insert a backup-date txt file
+cd ../My-Repos/plr-dlpi/3-xfce4-settings/normal-user/backup-restore-xfce4-configs/
+date > "backup-time=$(date +"%Y-%m-%d_%I-%M%p").txt"
+
+
+
+

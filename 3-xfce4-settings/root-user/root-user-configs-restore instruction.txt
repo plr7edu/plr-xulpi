@@ -1,0 +1,9 @@
+1.Copy "backup-original-configs" file to root desktop directory & run the script.
+
+2.Go "/root/" location With thunar as root 
+
+	- Ctrl + h (Show hidden files)
+	- Delete following directory and files (.config Pictures .bashrc .bash_profile"
+
+3.Extact "root-user-configs-backup.zip" file in "/root/" Directory
+		

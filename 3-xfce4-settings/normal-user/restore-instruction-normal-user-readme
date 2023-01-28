@@ -1,0 +1,14 @@
+1. Go linux live environment
+
+2. go main config location (In Home partition /home)
+/home/plr/.config/
+
+3.run this command in .config folder
+sudo rm -rf dconf gtk-3.0 Thunar xfce4
+
+4.Go backup-restore-xfce4-configs Directory
+
+5.Copy everthing to main config location (/home/plr/.config/)
+
+6.Exit the live linux environment.
+

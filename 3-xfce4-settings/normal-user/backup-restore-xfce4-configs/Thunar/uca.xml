@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1674291170815933-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>make-executable</icon>
+	<name>Make Executable</name>
+	<submenu></submenu>
+	<unique-id>1674670730077524-1</unique-id>
+	<command>chmod +x %f</command>
+	<description>Make a file execuble</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>ownership-to-user</icon>
+	<name>Ownership to User</name>
+	<submenu></submenu>
+	<unique-id>1674670993712385-2</unique-id>
+	<command>lxqt-sudo chown -R $USER:$USER %F</command>
+	<description>Change permissions to user</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>ownership-to-root</icon>
+	<name>Ownership to root</name>
+	<submenu></submenu>
+	<unique-id>1674671106100966-3</unique-id>
+	<command>lxqt-sudo chown -R root:root %F</command>
+	<description>Change permissions to root</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>create-symlink</icon>
+	<name>Create Symlink</name>
+	<submenu></submenu>
+	<unique-id>1674671169508211-4</unique-id>
+	<command>ln -s %f &quot;%n&quot;</command>
+	<description>Softlink between two files or directories</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>run</icon>
+	<name>Run</name>
+	<submenu></submenu>
+	<unique-id>1674671499353953-5</unique-id>
+	<command>alacritty -e %f</command>
+	<description>Run with terminal</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>open-directory-as-root</icon>
+	<name>Open directory as root</name>
+	<submenu></submenu>
+	<unique-id>1674671631447516-6</unique-id>
+	<command>pkexec thunar %f</command>
+	<description>Open current directory using thunar with root permission</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>extact-here-with-dtrx</icon>
+	<name>Extract Here with dtrx</name>
+	<submenu></submenu>
+	<unique-id>1674671783493826-7</unique-id>
+	<command>dtrx %F</command>
+	<description>Extract with dtrx</description>
+	<range>*</range>
+	<patterns>*.tar.bz2;*tbz2;*zip;*7z;*rar;*tar.xz</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon>plr-catfish</icon>
+	<name>Search with catfish</name>
+	<submenu></submenu>
+	<unique-id>1674672084338264-8</unique-id>
+	<command>catfish --path=$f$d</command>
+	<description>Search files using catfish</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>meld</icon>
+	<name>Compare</name>
+	<submenu></submenu>
+	<unique-id>1674672184015931-9</unique-id>
+	<command>meld %F</command>
+	<description>Compare with meld</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>Edit-as-root</icon>
+	<name>Edit as Root</name>
+	<submenu></submenu>
+	<unique-id>1674711652099909-1</unique-id>
+	<command>pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY geany %f</command>
+	<description>Edit text with root permission</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+</actions>

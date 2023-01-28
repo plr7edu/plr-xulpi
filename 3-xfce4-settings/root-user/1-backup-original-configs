@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Script Run Location = ~/root/Desktop/1-backup-original-configs
+
+tput bold
+echo -e "\e[1;34mBackup Original Configs...\e[1;37m";
+tput sgr0
+
+cd ../
+mkdir root-original-user-config-backup
+cp -r .bashrc .profile .config root-original-user-config-backup

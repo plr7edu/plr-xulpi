@@ -18,7 +18,8 @@ sudo cp config/slick-greeter.conf /etc/lightdm/
 # Copy User Images
 sudo cp lightdm-images/* /usr/share/
  
- 
+# Copy and Replace 50-slick-greeter.conf 
+sudo cp -if 50-slick-greeter.conf /usr/share/lightdm/lightdm.conf.d/
 
 
 
