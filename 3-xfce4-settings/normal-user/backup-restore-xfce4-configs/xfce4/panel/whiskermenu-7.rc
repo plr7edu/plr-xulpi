@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop,xfhelp4.desktop
-recent=md.obsidian.Obsidian.desktop,xdman.desktop,logseq.desktop,menulibre.desktop,simplenote.desktop,com.belmoussaoui.Authenticator.desktop,com.spotify.Client.desktop,discord.desktop,remote-viewer.desktop,org.xfce.mousepad-settings.desktop
+recent=io.github.shiftey.Desktop.desktop,org.gnome.FontManager.desktop,thunderbird.desktop,org.qbittorrent.qBittorrent.desktop,appimagekit_a6cdd6f99500c502ba31012da0c95aad-io.gitlab.LibreWolf.desktop,com.belmoussaoui.Authenticator.desktop,menulibre.desktop,org.gnome.Solanum.desktop,md.obsidian.Obsidian.desktop,xdman.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false
