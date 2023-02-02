@@ -27,7 +27,8 @@ flatpak install -y --noninteractive flathub org.gnome.Solanum &&
 flatpak install -y --noninteractive flathub com.belmoussaoui.Authenticator &&
 flatpak install -y --noninteractive flathub com.logseq.Logseq &&
 flatpak install -y --noninteractive flathub io.github.shiftey.Desktop &&
-flatpak install -y --noninteractive flathub org.gnome.clocks
+flatpak install -y --noninteractive flathub org.gnome.clocks &&
+flatpak install -y --noninteractive flathub me.hyliu.fluentreader
 
 tput setaf 2;
 echo "################################################################"

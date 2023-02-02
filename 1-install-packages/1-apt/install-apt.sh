@@ -129,6 +129,7 @@ xapp
 unrar
 lxqt-sudo
 python3-pip
+nala
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
