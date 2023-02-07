@@ -130,6 +130,8 @@ unrar
 lxqt-sudo
 python3-pip
 nala
+fortune
+zsh
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
