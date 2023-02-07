@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Espanso
+Exec=espanso start
+Comment=Cross-platform Text Expander written in Rust 
+Icon=/home/plr/.icons/esponso.png
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Categories=Utility;
+Path=
+StartupNotify=false
