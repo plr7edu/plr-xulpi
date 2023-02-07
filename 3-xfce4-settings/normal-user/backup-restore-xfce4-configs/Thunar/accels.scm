@@ -68,6 +68,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-desktop" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-as-detailed-list" "<Primary>2")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/restore-show" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/8e107304e01a27fe73974e16c0dc82f6" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-out" "<Primary>KP_Subtract")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-display-name" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/sendto-menu" "")

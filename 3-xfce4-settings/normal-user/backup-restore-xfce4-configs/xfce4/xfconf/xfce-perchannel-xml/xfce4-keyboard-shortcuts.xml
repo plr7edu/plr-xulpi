@@ -86,6 +86,7 @@
       <property name="&lt;Super&gt;i" type="string" value="xfce4-settings-manager"/>
       <property name="&lt;Super&gt;n" type="string" value="xfdesktop --next"/>
       <property name="&lt;Alt&gt;q" type="string" value="qbrofi"/>
+      <property name="&lt;Super&gt;x" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=13&apos;"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

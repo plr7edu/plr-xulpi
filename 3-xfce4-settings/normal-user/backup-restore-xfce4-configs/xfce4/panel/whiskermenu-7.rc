@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop,xfhelp4.desktop
-recent=io.github.shiftey.Desktop.desktop,org.gnome.FontManager.desktop,thunderbird.desktop,org.qbittorrent.qBittorrent.desktop,appimagekit_a6cdd6f99500c502ba31012da0c95aad-io.gitlab.LibreWolf.desktop,com.belmoussaoui.Authenticator.desktop,menulibre.desktop,org.gnome.Solanum.desktop,md.obsidian.Obsidian.desktop,xdman.desktop
+recent=appimagekit_b5a7658418a747dd3713dd4621b3787d-simplenote.desktop,org.xfce.mousepad.desktop,virt-manager.desktop,libreoffice-writer.desktop,me.hyliu.fluentreader.desktop,xfce4-file-manager.desktop,FoxitReader.desktop,xfhelp4.desktop,thunderbird.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false

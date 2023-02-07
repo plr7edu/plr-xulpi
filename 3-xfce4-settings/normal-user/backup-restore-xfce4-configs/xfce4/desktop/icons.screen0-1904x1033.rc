@@ -1,17 +1,9 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/Read-ebooks]
-row=0
-col=9
-
 [/home/plr/Desktop/Images for notes]
 row=0
 col=8
-
-[/home/plr/Desktop/Android SSH]
-row=0
-col=17
 
 [/home/plr/Desktop/CompTIA ITF+ Training]
 row=2
@@ -20,6 +12,26 @@ col=17
 [/home/plr/Desktop/Full Stack Development]
 row=3
 col=17
+
+[/home/plr/Desktop/test-linux-applications-list]
+row=0
+col=17
+
+[/home/plr/Desktop/Read-ebooks]
+row=0
+col=9
+
+[/home/plr/Desktop/Android SSH]
+row=0
+col=16
+
+[/home/plr/Desktop/Simplenote.AppImage]
+row=3
+col=7
+
+[061EAA4E1EAA3719]
+row=0
+col=1
 
 [Trash]
 row=0
