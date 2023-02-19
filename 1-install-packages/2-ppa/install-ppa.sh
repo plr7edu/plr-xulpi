@@ -26,6 +26,7 @@ sudo add-apt-repository ppa:apandada1/foliate
 sudo add-apt-repository ppa:nextcloud-devs/client
 sudo add-apt-repository ppa:wereturtle/ppa
 sudo add-apt-repository ppa:sebastian-stenzel/cryptomator
+sudo add-apt-repository ppa:xubuntu-dev/extras
 
 #Icon themes
 sudo add-apt-repository ppa:papirus/papirus
@@ -86,6 +87,7 @@ sudo apt install glow -y
 sudo apt install papirus-icon-theme -y
 sudo apt install flat-remix -y
 sudo apt install qt5-style-kvantum qt5-style-kvantum-themes -y
+sudo apt install xfce4-docklike-plugin -y
 
 
 tput setaf 2;
