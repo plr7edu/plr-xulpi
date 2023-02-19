@@ -8,20 +8,20 @@ Window Manager -Style = Matcha-dark-azul
 
 ## Icons Theme = 
 
-Surfin Breeze Dark
+Surfin Arc
 
 ---
 
 ## Default Font = 
 
-Fira Sans Book 10
+Noto Sans Regular 10.5
 
 ## Title Font = 
 
-Fira Sans Regular 11
+Noto Sans Regular 10
 
 ## Default Monospace Font = 
 
- Monospace Regular
+ Monospace Regular 10
 
 ---

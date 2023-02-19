@@ -6,4 +6,8 @@
   <property name="interface" type="empty">
     <property name="show-application-icons" type="bool" value="true"/>
   </property>
+  <property name="columns" type="empty">
+    <property name="sort-type" type="uint" value="0"/>
+    <property name="sort-id" type="uint" value="0"/>
+  </property>
 </channel>

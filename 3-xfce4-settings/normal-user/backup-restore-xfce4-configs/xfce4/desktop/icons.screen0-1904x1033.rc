@@ -17,6 +17,10 @@ col=17
 row=0
 col=17
 
+[/home/plr/Desktop/.bashrc-mx]
+row=3
+col=0
+
 [/home/plr/Desktop/Read-ebooks]
 row=0
 col=9
@@ -25,13 +29,9 @@ col=9
 row=0
 col=16
 
-[/home/plr/Desktop/Simplenote.AppImage]
-row=3
-col=7
-
 [061EAA4E1EAA3719]
-row=0
-col=1
+row=2
+col=0
 
 [Trash]
 row=0

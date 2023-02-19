@@ -70,7 +70,7 @@
 	<text-files/>
 </action>
 <action>
-	<icon>run</icon>
+	<icon>/home/plr/.icons/run.svg</icon>
 	<name>Run</name>
 	<submenu></submenu>
 	<unique-id>1674671499353953-5</unique-id>
