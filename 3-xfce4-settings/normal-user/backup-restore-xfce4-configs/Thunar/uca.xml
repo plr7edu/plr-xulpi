@@ -138,4 +138,20 @@
 	<patterns>*</patterns>
 	<text-files/>
 </action>
+<action>
+	<icon>rename</icon>
+	<name>Rename [(-.) (+ )]</name>
+	<submenu>Rename-shortcuts</submenu>
+	<unique-id>1676975633238390-1</unique-id>
+	<command>rename &apos;y/./ /&apos; %F</command>
+	<description>Remove dots and add spaces</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
 </actions>

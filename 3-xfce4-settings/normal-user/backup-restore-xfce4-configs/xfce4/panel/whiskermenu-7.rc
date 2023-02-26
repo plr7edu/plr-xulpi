@@ -1,5 +1,5 @@
-favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop,xfhelp4.desktop
-recent=xfce-ui-settings.desktop,xfce4-terminal-emulator.desktop,io.github.shiftey.Desktop.desktop,org.gnome.clocks.desktop,xfce4-taskmanager.desktop,com.spotify.Client.desktop,me.hyliu.fluentreader.desktop,org.flameshot.Flameshot.desktop,gucharmap.desktop,terminator.desktop
+favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
+recent=xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,io.github.shiftey.Desktop.desktop,org.gnome.clocks.desktop,xfce4-taskmanager.desktop,com.spotify.Client.desktop,me.hyliu.fluentreader.desktop,org.flameshot.Flameshot.desktop,gucharmap.desktop,terminator.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false

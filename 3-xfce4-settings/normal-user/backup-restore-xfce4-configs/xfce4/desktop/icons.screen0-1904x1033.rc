@@ -1,6 +1,14 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/plr/Desktop/Read-ebooks]
+row=0
+col=9
+
+[/home/plr/Desktop/lxqt things]
+row=2
+col=3
+
 [/home/plr/Desktop/Images for notes]
 row=0
 col=8
@@ -9,21 +17,13 @@ col=8
 row=2
 col=17
 
-[/home/plr/Desktop/Full Stack Development]
-row=3
-col=17
-
 [/home/plr/Desktop/test-linux-applications-list]
 row=0
 col=17
 
-[/home/plr/Desktop/.bashrc-mx]
+[/home/plr/Desktop/Full Stack Development]
 row=3
-col=0
-
-[/home/plr/Desktop/Read-ebooks]
-row=0
-col=9
+col=17
 
 [/home/plr/Desktop/Android SSH]
 row=0
@@ -35,6 +35,10 @@ col=0
 
 [Trash]
 row=0
+col=0
+
+[/]
+row=3
 col=0
 
 [/home/plr]
