@@ -15,6 +15,14 @@
 
 tput setaf 2;
 echo "################################################################"
+echo "Install pacstall"
+echo "################################################################"
+echo;tput sgr0
+
+sudo bash -c "$(curl -fsSL https://git.io/JsADh || wget -q https://git.io/JsADh -O -)"
+
+tput setaf 2;
+echo "################################################################"
 echo "Install Alacritty with pacstall"
 echo "################################################################"
 echo;tput sgr0

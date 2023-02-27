@@ -20,20 +20,20 @@ echo "################################################################"
 echo;tput sgr0
 
 
-sudo add-apt-repository ppa:jonaski/strawberry
-sudo add-apt-repository ppa:appimagelauncher-team/stable
-sudo add-apt-repository ppa:apandada1/foliate
-sudo add-apt-repository ppa:nextcloud-devs/client
-sudo add-apt-repository ppa:wereturtle/ppa
-sudo add-apt-repository ppa:sebastian-stenzel/cryptomator
-sudo add-apt-repository ppa:xubuntu-dev/extras
+sudo add-apt-repository ppa:jonaski/strawberry -y &&
+sudo add-apt-repository ppa:appimagelauncher-team/stable -y &&
+sudo add-apt-repository ppa:apandada1/foliate -y &&
+sudo add-apt-repository ppa:nextcloud-devs/client -y &&
+sudo add-apt-repository ppa:wereturtle/ppa -y &&
+sudo add-apt-repository ppa:sebastian-stenzel/cryptomator -y &&
+sudo add-apt-repository ppa:xubuntu-dev/extras -y &&
 
 #Icon themes
-sudo add-apt-repository ppa:papirus/papirus
-sudo add-apt-repository ppa:daniruiz/flat-remix
+sudo add-apt-repository ppa:papirus/papirus -y &&
+sudo add-apt-repository ppa:daniruiz/flat-remix -y &&
 
 # Kvantum 
-sudo add-apt-repository ppa:papirus/papirus
+sudo add-apt-repository ppa:papirus/papirus -y &&
 
 # Sublime Text
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/sublimehq-archive.gpg > /dev/null
@@ -75,19 +75,19 @@ echo "################################################################"
 echo;tput sgr0
 
 
-sudo apt install strawberry -y
-sudo apt install appimagelauncher -y
-sudo apt install foliate -y
-sudo apt install nextcloud-client -y
-sudo apt install ghostwriter -y
-sudo apt install cryptomator -y
-sudo apt-get install sublime-text -y
-sudo apt install signal-desktop -y
-sudo apt install glow -y
-sudo apt install papirus-icon-theme -y
-sudo apt install flat-remix -y
-sudo apt install qt5-style-kvantum qt5-style-kvantum-themes -y
-sudo apt install xfce4-docklike-plugin -y
+sudo nala install strawberry -y
+sudo nala install appimagelauncher -y
+sudo nala install foliate -y
+sudo nala install nextcloud-client -y
+sudo nala install ghostwriter -y
+sudo nala install cryptomator -y
+sudo nala install sublime-text -y
+sudo nala install signal-desktop -y
+sudo nala install glow -y
+sudo nala install papirus-icon-theme -y
+sudo nala install flat-remix -y
+sudo nala install qt5-style-kvantum qt5-style-kvantum-themes -y
+sudo nala install xfce4-docklike-plugin -y
 
 
 tput setaf 2;

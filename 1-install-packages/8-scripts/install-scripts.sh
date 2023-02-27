@@ -19,4 +19,6 @@ echo "Install Zap (A minimal zsh plugin manager)"
 echo "################################################################"
 echo;tput sgr0
 
+curl -sS https://starship.rs/install.sh | sh &&
+
 zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh)

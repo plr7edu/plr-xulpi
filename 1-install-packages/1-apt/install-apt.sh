@@ -42,7 +42,7 @@ func_install() {
     	echo "###############################################################################"
     	echo
     	tput sgr0
-    	sudo apt -y install $1 
+    	sudo nala install -y $1 
     fi
 }
 
@@ -127,7 +127,6 @@ tumbler
 thunar-archive-plugin
 xapp
 unrar
-lxqt-sudo
 python3-pip
 nala
 fortune

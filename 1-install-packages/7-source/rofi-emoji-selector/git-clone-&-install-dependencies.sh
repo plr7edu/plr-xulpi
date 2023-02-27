@@ -27,4 +27,4 @@ echo "Install all necessary dependencies "
 echo "################################################################"
 echo;tput sgr0
 
-sudo apt install rofi-dev autoconf automake libtool-bin libtool -y
+sudo nala install rofi-dev autoconf automake libtool-bin libtool -y
