@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=Espanso
+Exec=/home/plr/Applications/Espanso_3a938ade9611dd0453f2403a30fa41b9.AppImage launcher
+Icon=esponso
+Type=Application
+Categories=Utility;
+X-AppImage-Version=78df1b7
+TryExec=/home/plr/Applications/Espanso_3a938ade9611dd0453f2403a30fa41b9.AppImage
+X-AppImage-Old-Icon=icon
+X-AppImage-Old-Name=Espanso
+X-AppImage-Identifier=25f241696740cd2ec0362af4ba9ea2cd
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2022-11-02 23:51:55 UTC
+Hidden=false
+
+Comment=Cross-platform Text Expander written in Rust 
+Path=
+Terminal=false
+StartupNotify=false
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/Espanso_3a938ade9611dd0453f2403a30fa41b9.AppImage"
+

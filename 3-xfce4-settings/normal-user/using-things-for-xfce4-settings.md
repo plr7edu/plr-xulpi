@@ -8,7 +8,7 @@ Window Manager -Style = Matcha-dark-azul
 
 ## Icons Theme = 
 
-Surfin Arc
+Papirus-Dark
 
 ---
 
@@ -22,6 +22,6 @@ Noto Sans Regular 10
 
 ## Default Monospace Font = 
 
- Monospace Regular 10
+Monospace Regular 10
 
 ---

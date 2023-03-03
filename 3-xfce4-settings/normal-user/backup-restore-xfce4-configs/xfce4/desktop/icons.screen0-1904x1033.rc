@@ -1,13 +1,9 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/Read-ebooks]
+[/home/plr/Desktop/Terminator Cheat Cheet.md]
 row=0
-col=9
-
-[/home/plr/Desktop/lxqt things]
-row=2
-col=3
+col=4
 
 [/home/plr/Desktop/Images for notes]
 row=0
@@ -17,13 +13,29 @@ col=8
 row=2
 col=17
 
+[/home/plr/Desktop/Full Stack Development]
+row=3
+col=17
+
+[/home/plr/Desktop/The Medium (2021)]
+row=0
+col=12
+
+[/home/plr/Desktop/Sudo gui frontend Testing]
+row=0
+col=5
+
 [/home/plr/Desktop/test-linux-applications-list]
 row=0
 col=17
 
-[/home/plr/Desktop/Full Stack Development]
-row=3
-col=17
+[/home/plr/Desktop/New File]
+row=2
+col=7
+
+[/home/plr/Desktop/Read-ebooks]
+row=0
+col=9
 
 [/home/plr/Desktop/Android SSH]
 row=0
@@ -35,10 +47,6 @@ col=0
 
 [Trash]
 row=0
-col=0
-
-[/]
-row=3
 col=0
 
 [/home/plr]

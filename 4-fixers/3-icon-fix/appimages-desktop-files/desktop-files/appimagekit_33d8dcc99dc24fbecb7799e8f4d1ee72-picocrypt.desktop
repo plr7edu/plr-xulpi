@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=picocrypt
+Exec=/home/plr/Applications/Picocrypt_bab445bad268abd22756afce9eec197a.AppImage
+Icon=appimagekit_33d8dcc99dc24fbecb7799e8f4d1ee72_picocrypt
+Categories=Utility
+TryExec=/home/plr/Applications/Picocrypt_bab445bad268abd22756afce9eec197a.AppImage
+X-AppImage-Old-Icon=picocrypt
+X-AppImage-Identifier=33d8dcc99dc24fbecb7799e8f4d1ee72
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2022-11-02 23:51:55 UTC
+
+Comment=A very small, very simple, yet very secure encryption tool. 
+Path=
+StartupNotify=false
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/Picocrypt_bab445bad268abd22756afce9eec197a.AppImage"

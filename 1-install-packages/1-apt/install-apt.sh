@@ -96,7 +96,7 @@ mugshot
 dconf-editor
 yt-dlp
 audacious
-perl-rename
+rename
 feh
 gimp
 smplayer
@@ -106,7 +106,7 @@ conky
 grsync
 gnome-clocks
 qemu
-virtmanager
+virt-manager
 tldr
 tor
 fzf

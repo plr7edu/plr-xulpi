@@ -29,7 +29,7 @@
 	<name>Ownership to User</name>
 	<submenu></submenu>
 	<unique-id>1674670993712385-2</unique-id>
-	<command>lxqt-sudo chown -R $USER:$USER %F</command>
+	<command>/usr/bin/pkexec chown -R $USER:$USER %F</command>
 	<description>Change permissions to user</description>
 	<range>*</range>
 	<patterns>*</patterns>
@@ -45,7 +45,7 @@
 	<name>Ownership to root</name>
 	<submenu></submenu>
 	<unique-id>1674671106100966-3</unique-id>
-	<command>lxqt-sudo chown -R root:root %F</command>
+	<command>/usr/bin/pkexec chown -R root:root %F</command>
 	<description>Change permissions to root</description>
 	<range>*</range>
 	<patterns>*</patterns>
@@ -139,7 +139,7 @@
 	<text-files/>
 </action>
 <action>
-	<icon>rename</icon>
+	<icon>/home/plr/.icons/rename.svg</icon>
 	<name>Rename [(-.) (+ )]</name>
 	<submenu>Rename-shortcuts</submenu>
 	<unique-id>1676975633238390-1</unique-id>

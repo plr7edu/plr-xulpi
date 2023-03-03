@@ -1,0 +1,39 @@
+[Desktop Entry]
+Name=LibreWolf
+Exec=/home/plr/Applications/LibreWolf.x86_64.AppImage %u
+Icon=appimagekit_a6cdd6f99500c502ba31012da0c95aad_librewolf
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
+StartupWMClass=LibreWolf
+Categories=Network;WebBrowser;
+StartupNotify=true
+Terminal=false
+X-MultipleArgs=false
+Keywords=Internet;WWW;Browser;Web;Explorer;
+Actions=Remove;
+
+TryExec=/home/plr/Applications/LibreWolf.x86_64.AppImage
+X-AppImage-Old-Icon=librewolf
+X-AppImage-Identifier=a6cdd6f99500c502ba31012da0c95aad
+
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2022-11-02 23:51:55 UTC
+
+Comment=A custom version of Firefox, focused on privacy, security and freedom.
+Path=
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=librewolf %u
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Exec=librewolf --private-window %u
+
+[Desktop Action profilemanager]
+Name=Open the Profile Manager
+Exec=librewolf --ProfileManager %u
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/LibreWolf.x86_64.AppImage"
