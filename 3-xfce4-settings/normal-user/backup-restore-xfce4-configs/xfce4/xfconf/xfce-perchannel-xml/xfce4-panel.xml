@@ -96,9 +96,7 @@
     </property>
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="16781911601.desktop"/>
         <value type="string" value="16781960294.desktop"/>
-        <value type="string" value="16781911722.desktop"/>
         <value type="string" value="16781911823.desktop"/>
       </property>
       <property name="move-first" type="bool" value="true"/>
