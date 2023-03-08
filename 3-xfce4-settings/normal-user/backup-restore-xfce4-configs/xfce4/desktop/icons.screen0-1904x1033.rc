@@ -1,37 +1,29 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/Terminator Cheat Cheet.md]
-row=0
-col=4
-
-[/home/plr/Desktop/Images for notes]
-row=0
-col=8
-
 [/home/plr/Desktop/CompTIA ITF+ Training]
 row=2
-col=17
-
-[/home/plr/Desktop/Full Stack Development]
-row=3
 col=17
 
 [/home/plr/Desktop/The Medium (2021)]
 row=0
 col=12
 
-[/home/plr/Desktop/Sudo gui frontend Testing]
+[/home/plr/Desktop/Full Stack Development]
+row=3
+col=17
+
+[/home/plr/Desktop/Images for notes]
 row=0
-col=5
+col=8
+
+[/home/plr/Desktop/Terminator Cheat Cheet.md]
+row=0
+col=4
 
 [/home/plr/Desktop/test-linux-applications-list]
 row=0
 col=17
-
-[/home/plr/Desktop/New File]
-row=2
-col=7
 
 [/home/plr/Desktop/Read-ebooks]
 row=0

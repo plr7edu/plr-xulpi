@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
-recent=virt-manager.desktop,appimagekit_25f241696740cd2ec0362af4ba9ea2cd-espanso.desktop,menulibre.desktop,terminator.desktop,com.nextcloud.desktopclient.nextcloud.desktop,com.belmoussaoui.Authenticator.desktop,com.bitwarden.desktop.desktop,xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,io.github.shiftey.Desktop.desktop
+recent=com.bitwarden.desktop.desktop,terminator.desktop,com.belmoussaoui.Authenticator.desktop,filezilla.desktop,xfce-mouse-settings.desktop,appimagekit_a6cdd6f99500c502ba31012da0c95aad-io.gitlab.LibreWolf.desktop,virt-manager.desktop,appimagekit_25f241696740cd2ec0362af4ba9ea2cd-espanso.desktop,menulibre.desktop,com.nextcloud.desktopclient.nextcloud.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false
@@ -24,7 +24,7 @@ stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
 menu-width=435
-menu-height=587
+menu-height=561
 menu-opacity=80
 command-settings=xfce4-settings-manager
 show-command-settings=true
