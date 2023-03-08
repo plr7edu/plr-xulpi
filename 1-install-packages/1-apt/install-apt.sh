@@ -131,6 +131,7 @@ python3-pip
 nala
 fortune
 zsh
+dmenu
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
