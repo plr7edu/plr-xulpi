@@ -132,6 +132,7 @@ nala
 fortune
 zsh
 dmenu
+ffmpegthumbnailer
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
