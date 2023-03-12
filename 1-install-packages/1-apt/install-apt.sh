@@ -133,6 +133,7 @@ fortune
 zsh
 dmenu
 ffmpegthumbnailer
+vim
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
