@@ -134,6 +134,10 @@ zsh
 dmenu
 ffmpegthumbnailer
 vim
+imagemagick
+wkhtmltopdf
+bat
+mediainfo
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
