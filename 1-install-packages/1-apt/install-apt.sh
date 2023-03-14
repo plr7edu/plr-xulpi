@@ -138,6 +138,7 @@ imagemagick
 wkhtmltopdf
 bat
 mediainfo
+trash-cli
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 

@@ -8,6 +8,7 @@
   <property name="do-not-disturb" type="bool" value="false"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
+      <value type="string" value="/snap/firefox/2391"/>
       <value type="string" value="com.spotify.Client"/>
       <value type="string" value="espanso"/>
       <value type="string" value="FileZilla"/>

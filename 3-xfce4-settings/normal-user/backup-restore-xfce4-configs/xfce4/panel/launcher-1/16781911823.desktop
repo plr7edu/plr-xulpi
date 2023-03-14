@@ -2,7 +2,7 @@
 Name=Terminator 3-terminal
 Comment=Multiple terminals in one window
 TryExec=terminator
-Exec=terminator -l 3-terminal
+Exec=terminator -l 3-terminal 
 Icon=terminator
 Type=Application
 Categories=GNOME;GTK;Utility;TerminalEmulator;System;
