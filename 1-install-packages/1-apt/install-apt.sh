@@ -121,7 +121,6 @@ caffeine
 p7zip
 ibus-m17n
 xfce4-panel-profiles
-code
 xfce4-taskmanager
 tumbler
 thunar-archive-plugin
@@ -139,6 +138,7 @@ wkhtmltopdf
 bat
 mediainfo
 trash-cli
+autojump
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 

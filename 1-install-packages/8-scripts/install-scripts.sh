@@ -15,10 +15,35 @@
 
 tput setaf 2;
 echo "################################################################"
-echo "Install Zap (A minimal zsh plugin manager)"
+echo "Install Starship Prompt"
 echo "################################################################"
 echo;tput sgr0
 
+# Starship
 curl -sS https://starship.rs/install.sh | sh &&
 
+tput setaf 2;
+echo "################################################################"
+echo "Install Zap (Minimal Zsh Plugin Manager)"
+echo "################################################################"
+echo;tput sgr0
+
+# Zap minimal zsh plugin manager 
 zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh)
+
+tput setaf 2;
+echo "################################################################"
+echo "Macfly (Fly through your shell history.)"
+echo "################################################################"
+echo;tput sgr0
+
+# Macfly (Fly through your shell history.) 
+curl -LSfs https://raw.githubusercontent.com/cantino/mcfly/master/ci/install.sh | sudo sh -s -- --git cantino/mcfly
+tput setaf 2;
+
+echo "################################################################"
+echo "Copy Tldr Repo"
+echo "################################################################"
+echo;tput sgr0
+
+tldr -u
