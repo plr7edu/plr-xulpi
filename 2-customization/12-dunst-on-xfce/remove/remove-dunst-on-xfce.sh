@@ -15,7 +15,7 @@
 
 tput setaf 3;
 echo "################################################################"
-echo "Insatll Dunst on Xfce"
+echo "Remove Dunst on Xfce"
 echo "################################################################"
 echo;tput sgr0
 
@@ -23,6 +23,7 @@ sudo mv /usr/share/dbus-1/services/org.xfce.xfce4-notifyd.Notifications.service.
 
 sudo rm -rf ~/usr/share/dbus-1/servies/dunst.service
 
+sudo nala remove dunst -y
 
 tput setaf 2;
 echo "################################################################"

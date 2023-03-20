@@ -88,6 +88,8 @@
       <property name="&lt;Super&gt;x" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=13&apos;"/>
       <property name="Print" type="string" value="flameshot gui"/>
       <property name="&lt;Super&gt;period" type="string" value="rofi -modi emoji -show emoji"/>
+      <property name="Insert" type="string" value="dunstctl history-pop"/>
+      <property name="Home" type="string" value="dunstctl close-all"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

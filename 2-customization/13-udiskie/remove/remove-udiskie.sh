@@ -15,20 +15,24 @@
 
 tput setaf 3;
 echo "################################################################"
-echo "Install Dunst on Xfce"
+echo "Remove Udiskie on Xfce"
 echo "################################################################"
 echo;tput sgr0
 
-sudo nala install dunst -y
+sudo nala remove udisks2 -y
 
-sudo mv /usr/share/dbus-1/services/org.xfce.xfce4-notifyd.Notifications.service /usr/share/dbus-1/services/org.xfce.xfce4-notifyd.Notifications.service.disabled &&
+tput setaf 3;
+echo "################################################################"
+echo "Install thunar-volman on Xfce"
+echo "################################################################"
+echo;tput sgr0
 
+sudo nala install thunar-volman -y
 
-sudo cp -rf dunst.service ~/usr/share/dbus-1/services/
 
 tput setaf 2;
 echo "###########################################################################"
-echo "Untick Xfce Notificication Daemon (xfce4-notifyd) on Application Autostart"
+echo "Done"
 echo "###########################################################################"
 echo;tput sgr0
 

@@ -1,17 +1,9 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/spotlight.png]
+[/home/plr/Desktop/dunst.service]
 row=3
 col=0
-
-[/home/plr/Desktop/all.png]
-row=4
-col=0
-
-[/home/plr/Desktop/Images for notes]
-row=0
-col=8
 
 [/home/plr/Desktop/CompTIA ITF+ Training]
 row=2
@@ -21,9 +13,13 @@ col=17
 row=3
 col=17
 
-[/home/plr/Desktop/mcfly]
-row=5
-col=0
+[/home/plr/Desktop/Thunar Automout problem]
+row=2
+col=6
+
+[/home/plr/Desktop/Images for notes]
+row=0
+col=8
 
 [/home/plr/Desktop/test-linux-applications-list]
 row=0
@@ -33,13 +29,13 @@ col=17
 row=0
 col=9
 
-[/home/plr/Desktop/Android SSH]
-row=0
-col=16
-
 [/home/plr/Desktop/cheat-sheet]
 row=0
 col=3
+
+[/home/plr/Desktop/Android SSH]
+row=0
+col=16
 
 [061EAA4E1EAA3719]
 row=2
