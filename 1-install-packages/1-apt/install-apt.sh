@@ -139,6 +139,8 @@ bat
 mediainfo
 trash-cli
 autojump
+evince 
+tmux
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
