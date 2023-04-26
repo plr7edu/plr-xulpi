@@ -1,10 +1,6 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/dunst.service]
-row=3
-col=0
-
 [/home/plr/Desktop/CompTIA ITF+ Training]
 row=2
 col=17
@@ -12,10 +8,6 @@ col=17
 [/home/plr/Desktop/Full Stack Development]
 row=3
 col=17
-
-[/home/plr/Desktop/Thunar Automout problem]
-row=2
-col=6
 
 [/home/plr/Desktop/Images for notes]
 row=0

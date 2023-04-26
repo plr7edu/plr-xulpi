@@ -1,33 +1,29 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/plr/Desktop/CompTIA ITF+ Training]
+row=4
+col=0
+
+[/home/plr/Desktop/Full Stack Development]
+row=3
+col=0
+
 [/home/plr/Desktop/Images for notes]
 row=0
 col=8
 
-[/home/plr/Desktop/CompTIA ITF+ Training]
-row=1
-col=17
-
-[/home/plr/Desktop/Full Stack Development]
-row=2
-col=17
-
-[/home/plr/Desktop/Delete Later (Check)]
-row=0
-col=14
-
 [/home/plr/Desktop/test-linux-applications-list]
-row=0
-col=17
-
-[/home/plr/Desktop/cheat-sheet]
-row=0
-col=3
+row=5
+col=0
 
 [/home/plr/Desktop/Read-ebooks]
 row=0
 col=9
+
+[/home/plr/Desktop/cheat-sheet]
+row=0
+col=3
 
 [/home/plr/Desktop/Android SSH]
 row=0

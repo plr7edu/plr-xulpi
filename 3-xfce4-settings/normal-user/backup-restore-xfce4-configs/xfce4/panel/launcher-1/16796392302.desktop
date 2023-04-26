@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox (Narsil-user.js)
+Comment=Firefox open with Narsil-user.js
+Exec=firefox -p Narsil-user.js
+Icon=firefox-developer-icon
+Path=
+Terminal=false
+StartupNotify=false
