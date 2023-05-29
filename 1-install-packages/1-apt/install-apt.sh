@@ -141,6 +141,7 @@ trash-cli
 autojump
 evince 
 tmux
+engrampa
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
