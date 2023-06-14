@@ -27,6 +27,7 @@ sudo add-apt-repository ppa:nextcloud-devs/client -y &&
 sudo add-apt-repository ppa:wereturtle/ppa -y &&
 sudo add-apt-repository ppa:sebastian-stenzel/cryptomator -y &&
 sudo add-apt-repository ppa:xubuntu-dev/extras -y &&
+sudo add-apt-repository ppa:phoerious/keepassxc -y &&
 
 #Icon themes
 sudo add-apt-repository ppa:papirus/papirus -y &&
@@ -88,6 +89,7 @@ sudo nala install papirus-icon-theme -y
 sudo nala install flat-remix -y
 sudo nala install qt5-style-kvantum qt5-style-kvantum-themes -y
 sudo nala install xfce4-docklike-plugin -y
+sudo nala install keepassxc -y
 
 
 tput setaf 2;
