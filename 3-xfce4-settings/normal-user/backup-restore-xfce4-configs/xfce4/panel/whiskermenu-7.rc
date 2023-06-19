@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
-recent=xfce4-mime-settings.desktop,xdman.desktop,com.teamviewer.TeamViewer.desktop,org.gnome.DiskUtility.desktop,syncthing-ui.desktop,syncthing-start.desktop,sublime_text.desktop,peazip.desktop,com.bitwarden.desktop.desktop
+recent=xfce4-file-manager.desktop,org.gnome.DiskUtility.desktop,gparted.desktop,xdman.desktop,syncthing-ui.desktop,syncthing-start.desktop,p7zip-desktop_p7zip-desktop.desktop,menulibre.desktop,appimagekit_5e3d8781440df6265cc856809a1309b6-AppImageUpdate.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false
